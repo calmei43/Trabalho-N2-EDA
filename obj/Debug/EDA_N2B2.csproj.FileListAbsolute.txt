@@ -1,0 +1,7 @@
+D:\Faculdade Termomecânica\EC3\Estrutura de Dados\Prova 2 Bimestre\EDA_N2B2\obj\Debug\EDA_N2B2.csprojAssemblyReference.cache
+D:\Faculdade Termomecânica\EC3\Estrutura de Dados\Prova 2 Bimestre\EDA_N2B2\obj\Debug\EDA_N2B2.csproj.CoreCompileInputs.cache
+D:\Faculdade Termomecânica\EC3\Estrutura de Dados\Prova 2 Bimestre\EDA_N2B2\bin\Debug\EDA_N2B2.exe.config
+D:\Faculdade Termomecânica\EC3\Estrutura de Dados\Prova 2 Bimestre\EDA_N2B2\bin\Debug\EDA_N2B2.exe
+D:\Faculdade Termomecânica\EC3\Estrutura de Dados\Prova 2 Bimestre\EDA_N2B2\bin\Debug\EDA_N2B2.pdb
+D:\Faculdade Termomecânica\EC3\Estrutura de Dados\Prova 2 Bimestre\EDA_N2B2\obj\Debug\EDA_N2B2.exe
+D:\Faculdade Termomecânica\EC3\Estrutura de Dados\Prova 2 Bimestre\EDA_N2B2\obj\Debug\EDA_N2B2.pdb
