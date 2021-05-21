@@ -11,6 +11,8 @@ namespace EDA_N2B2
     {
         Dictionary<int, Produto> content = new  Dictionary<int, Produto>();
 
+       
+
         public RegistroProduto(string path)
         {
             VerifyContent(path);
